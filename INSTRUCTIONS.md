@@ -1,12 +1,12 @@
-# Vape Tools E-Liquid Calculator - Instructions
+# NDI Vape Tools E-Liquid Calculator - Instructions
 
-Welcome to the Vape Tools E-Liquid Calculator! This tool helps you calculate the exact amounts of ingredients needed to make your own e-liquid. It's designed for precision and ease of use, with support for multiple flavors (including names) and nicotine units (% or mg/ml).
+This tool helps you calculate the exact amounts of ingredients needed to make your own e-liquid. It's designed for precision and ease of use, with support for multiple flavors (including names) and nicotine units (% or mg/ml).
 
 ## Setup
 
 1. Download or clone the repository from GitHub.
 2. Ensure the files (`index.html`, `styles.css`, and `script.js`) are in the same folder.
-3. Open `index.html` in a modern web browser (e.g., Chrome, Firefox). No internet or installation required—it works offline.
+3. Open `index.html` in a modern web browser (e.g., Chrome, Firefox). No internet or installation required (it works offline).
 
 ## How to Use the Calculator
 
@@ -88,12 +88,12 @@ The calculator will show:
 
 ## Tips
 
-1. Always verify your calculations before mixing—double-check inputs and results.
+1. Always verify your calculations before mixing (double-check inputs and results).
 2. Store your homemade e-liquid properly (cool, dark place).
-3. Shake well before use and let it steep for best flavor (e.g., 1-2 weeks for complex mixes).
+3. Shake well before use and let it steep for best flavor if needed (e.g., 1-2 weeks for complex mixes / reffer to the flavor's label).
 4. Keep all ingredients away from children and pets.
 5. When using multiple flavors, start with lower percentages (e.g., 5-15% total) and adjust to taste in future batches.
-6. For flavor names: They're optional but helpful for tracking—leave blank to default to "Flavor 1", etc.
+6. Flavor names are optional but helpful for tracking. Leave blank to default for "Flavor 1", "Flavor 2" etc.
 7. The tool works offline and is mobile-friendly; test on your device for best results.
 
 ## Safety Notes
@@ -103,6 +103,12 @@ The calculator will show:
 - Do not ingest e-liquid or any ingredients.
 - Dispose of any spills properly and clean equipment thoroughly.
 - Consult local regulations for DIY e-liquid mixing.
-- This tool is for informational purposes—use at your own risk.
+- This tool is for informational purposes only - use at your own risk.
 
-Enjoy creating your custom e-liquid!
+## Useful resources
+
+For flavors inspiration, mixing ideas, and community:
+- [E-Liquid Recipes](https://e-liquid-recipes.com/) 
+- [All the FlavorS](https://alltheflavors.com/)
+
+**Enjoy creating your custom e-liquid (and happy vaping, obviously :))**
